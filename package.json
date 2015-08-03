@@ -1,7 +1,7 @@
 {
   "name": "hubot-mashery",
   "description": "A hubot script that interacts with the Mashery API.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "brianantonelli <brian.antonelli@autotrader.com>",
   "license": "MIT",
   "keywords": [
